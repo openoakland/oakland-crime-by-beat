@@ -1,0 +1,1 @@
+takes data from http://data.openoakland.org/dataset/oakland-crime-data-2007-13 znd splits it up by police beat as geojson for easy viewing on github.com
